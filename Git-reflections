@@ -1,0 +1,16 @@
+It was really helpful to understand diff output and learn to quickly scan.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having every version makes it easy to roll back to the last known working state.
+
+It's best to save whenever I decide that there is a significant change.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+In Google Docs te files don't tend to be interdependent, whereas in Git, file tend to form a set.
+
+How can you use the commands git log and git diff to view the history of files?
+Using the log to find the commit IDs and then Using the ids to compare the commit instances enumerates the changes.
+
+Usig version control make me more confident making changes because I can limit the uncertainty and go back to  known-good state.
+
+I want to use git to manage versions of complex collections of docs.
