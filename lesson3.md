@@ -17,4 +17,11 @@ Use forks to copy Github repos and be able to send/recieve updates. Use clones w
 
 ###What is the benefit of having a copy of the last known state of the remote stored locally?
 
+
   * Havng a local copy allows me to reconcile changes even if I don't hae an internet connection.
+
+
+###How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  * If it were all in a single document, then I would use Google Docs, but that would be difficult for text-only files.
+  * I suppose another strategy would be to put files in staging directories and manually merge.
