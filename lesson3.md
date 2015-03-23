@@ -25,3 +25,8 @@ Use forks to copy Github repos and be able to send/recieve updates. Use clones w
 
   * If it were all in a single document, then I would use Google Docs, but that would be difficult for text-only files.
   * I suppose another strategy would be to put files in staging directories and manually merge.
+
+###When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  * Making changes in the separate branch allows me to insulate my change from the working version. 
+  * Making changes on the master branch means that everyone else can access my change if they need to.
